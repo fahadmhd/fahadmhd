@@ -1,4 +1,5 @@
-## Hi there 
+## Hi, I am Dr. Fahad
+### PhD. | Researcher | Data Scientist | Consultant | Developer
  - 💬 better look my  [linkedin profile] (https://www.linkedin.com/in/drfahad/)
 - 🔭 I’m currently working on Data Science projects
 - 📫 How to reach me: email me please
