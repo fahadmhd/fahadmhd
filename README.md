@@ -1,8 +1,8 @@
 ## Hi there 
+ - 💬 better look my  [linkedin profile] (https://www.linkedin.com/in/drfahad/)
 - 🔭 I’m currently working on Data Science projects
 - 📫 How to reach me: email me please
 
-- 
 <!--
 **fahadmhd/fahadmhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
